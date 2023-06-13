@@ -5,3 +5,4 @@ def to_upper_case(message):
     :return: строка заглавными str
     """
     return message.upper()
+
